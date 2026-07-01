@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/jurassic-reborn.pw.toml"
-hash = "944e92f44895d336d3e905927dacb71cbb39eeaae705be9325f3e7aa66b773fd"
+hash = "d32a8535bbf366ab2310ff2e875a7935318966674b6141a3615b1636249be5ee"
 metafile = true
 
 [[files]]
