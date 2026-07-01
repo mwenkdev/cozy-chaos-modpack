@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/morecatvariants.pw.toml"
-hash = "7e1ab74e102e82a385b6981c7309bb467c5a6012abd13e334cb15f3fa597ea35"
+hash = "7a774bd43ae5e654642895fe316e22b723df4c247a6c0aa5f716fb71992603d7"
 metafile = true
 
 [[files]]
