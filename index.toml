@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "c558c83ee322abd152a858ab03e4dea2f83aae0bc2bb203f961f5ff26705ebda"
+
+[[files]]
+file = ".github/workflows/validate.yml"
+hash = "543bd47683181481a834d02c72995c97da9333d598de0e6ac4dd9b51a15d2e67"
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "5a4d2db026b833175116de304ee57a1e959621a92d20bcb6cc291b299a0a5493"
 metafile = true
@@ -192,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/jurassic-reborn.pw.toml"
-hash = "944e92f44895d336d3e905927dacb71cbb39eeaae705be9325f3e7aa66b773fd"
+hash = "d32a8535bbf366ab2310ff2e875a7935318966674b6141a3615b1636249be5ee"
 metafile = true
 
 [[files]]
@@ -237,12 +245,12 @@ metafile = true
 
 [[files]]
 file = "mods/morecatvariants.pw.toml"
-hash = "7e1ab74e102e82a385b6981c7309bb467c5a6012abd13e334cb15f3fa597ea35"
+hash = "7a774bd43ae5e654642895fe316e22b723df4c247a6c0aa5f716fb71992603d7"
 metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-furniture-mod-tools-refurbished.pw.toml"
-hash = "8ced543ae179e95119700559c8167e7e62b84a2d32e62a989bbcb89ec1c793f0"
+hash = "c8bef3ab64c3f9cb46579e41c2f133d855ac41a9d2eba37bbb55e383b37b2723"
 metafile = true
 
 [[files]]
@@ -287,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/revamped-cats.pw.toml"
-hash = "dc08a2914f3fd3d06e0f512e80668fb940ae187ec712de465a2fb349383a766c"
+hash = "36256ba4db8a57020d688a2f3cefe53caf11a56f1b8030a31106b56ff87ef3dd"
 metafile = true
 
 [[files]]

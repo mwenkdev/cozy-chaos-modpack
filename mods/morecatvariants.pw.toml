@@ -3,11 +3,11 @@ filename = "morecatvariants-forge-0.0.2+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "840ad5deb25c5918f5e65591d293f42c70c1910f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/cs5vil9i/versions/h08KVn9G/morecatvariants-forge-0.0.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ce9db93f5bc48a56c13bdebe8f94074f615b16795c77799df61562d3e6a582457268c76640a7fe17a0abdde67b3ffd76acec4ce9ee1e1d260e314d46cafde552"
 
 [update]
-[update.curseforge]
-file-id = 6804898
-project-id = 1278854
+[update.modrinth]
+mod-id = "cs5vil9i"
+version = "h08KVn9G"
