@@ -1,0 +1,13 @@
+name = "MCA Reborn x Easy Villagers Compat"
+filename = "mca-ev-compat-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f16a10cd6eb1aff27bde208d28cbc1f578c5fff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8085803
+project-id = 1526365

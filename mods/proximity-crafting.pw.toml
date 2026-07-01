@@ -1,0 +1,13 @@
+name = "Proximity Crafting"
+filename = "proximitycrafting-1.1.0+forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d6a3bcfa1ca2cfba14315e5c304854b9d738291"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7717740
+project-id = 1477254

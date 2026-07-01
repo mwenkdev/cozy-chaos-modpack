@@ -1,0 +1,13 @@
+name = "More Cat Variants"
+filename = "morecatvariants-forge-0.0.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "840ad5deb25c5918f5e65591d293f42c70c1910f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6804898
+project-id = 1278854

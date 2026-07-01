@@ -1,0 +1,13 @@
+name = "Companions!"
+filename = "companions-forge-1.20.1-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ArBFNu9T/versions/SnioeNZW/companions-forge-1.20.1-1.2.3.jar"
+hash-format = "sha512"
+hash = "27b7fc845ce5dc65312d6ea3effb7b82a3c12f6325f47df2aa16151ef61377f7b151531f412a4e369ba9d8dce7035ce0d15991ffe3189041f6f9b8cd5d213d0c"
+
+[update]
+[update.modrinth]
+mod-id = "ArBFNu9T"
+version = "SnioeNZW"
