@@ -1,0 +1,78 @@
+
+[general]
+	#Enables MCA Reborn compatibility behavior for Easy Villagers.
+	enableCompatibility = true
+
+[blocks]
+	#Enables MCA compatibility for Easy Villagers Trader and Auto Trader blocks.
+	enableTraderCompatibility = true
+	#Enables MCA compatibility for the Easy Villagers Breeder block.
+	enableBreederCompatibility = true
+	#Enables MCA compatibility for the Easy Villagers Farmer block.
+	enableFarmerCompatibility = true
+	#Enables MCA compatibility for the Easy Villagers Converter block.
+	enableConverterCompatibility = true
+	#Enables MCA compatibility for the Easy Villagers Incubator block.
+	enableIncubatorCompatibility = true
+	#Enables MCA compatibility for the Easy Villagers Iron Farm block.
+	enableIronFarmCompatibility = true
+
+[sound]
+	#Master toggle for this addon's stored villager sound compatibility.
+	enableStoredVillagerSoundControl = true
+	#Default mode used when a more specific action or block option is set to DEFAULT. Allowed values: MCA, EASY_VILLAGERS, MUTED.
+	#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+	defaultMcaStoredVillagerSoundMode = "MCA"
+	#If true, vanilla stored villagers can also be muted by action or block options set to MUTED. Vanilla villagers never use MCA sounds.
+	affectVanillaStoredVillagerSounds = false
+
+	[sound.actions]
+		#Sound mode used when picking up an MCA villager from the world. Allowed values: DEFAULT, MCA, EASY_VILLAGERS, MUTED.
+		#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+		pickupFromWorldSoundMode = "DEFAULT"
+		#Sound mode used by stored villager inventory and hotbar sounds. Allowed values: DEFAULT, MCA, EASY_VILLAGERS, MUTED.
+		#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+		inventorySoundMode = "DEFAULT"
+		#Sound mode used when inserting a stored villager into an Easy Villagers block. Allowed values: DEFAULT, MCA, EASY_VILLAGERS, MUTED.
+		#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+		insertIntoBlockSoundMode = "DEFAULT"
+		#Sound mode used when removing a stored villager from an Easy Villagers block. Allowed values: DEFAULT, MCA, EASY_VILLAGERS, MUTED.
+		#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+		removeFromBlockSoundMode = "DEFAULT"
+		#Sound mode used by idle/random stored villager block sounds. Allowed values: DEFAULT, MCA, EASY_VILLAGERS, MUTED.
+		#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+		blockIdleSoundMode = "DEFAULT"
+		#Sound mode used by workstation/work sounds in Easy Villagers blocks. Allowed values: DEFAULT, MCA, EASY_VILLAGERS, MUTED.
+		#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+		blockWorkSoundMode = "DEFAULT"
+		#Sound mode used by processing sounds in Easy Villagers blocks. Allowed values: DEFAULT, MCA, EASY_VILLAGERS, MUTED.
+		#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+		blockProcessSoundMode = "DEFAULT"
+		#Reserved sound mode for placing a stored villager back into the world. Allowed values: DEFAULT, MCA, EASY_VILLAGERS, MUTED.
+		#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+		placeBackIntoWorldSoundMode = "DEFAULT"
+
+	[sound.blocks]
+		#Sound mode override for Trader and Auto Trader blocks. Allowed values: DEFAULT, MCA, EASY_VILLAGERS, MUTED.
+		#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+		traderSoundMode = "DEFAULT"
+		#Sound mode override for the Breeder block. Allowed values: DEFAULT, MCA, EASY_VILLAGERS, MUTED.
+		#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+		breederSoundMode = "DEFAULT"
+		#Sound mode override for the Farmer block. Allowed values: DEFAULT, MCA, EASY_VILLAGERS, MUTED.
+		#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+		farmerSoundMode = "DEFAULT"
+		#Sound mode override for the Iron Farm block. Allowed values: DEFAULT, MCA, EASY_VILLAGERS, MUTED.
+		#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+		ironFarmSoundMode = "DEFAULT"
+		#Sound mode override for the Converter block. Allowed values: DEFAULT, MCA, EASY_VILLAGERS, MUTED.
+		#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+		converterSoundMode = "DEFAULT"
+		#Sound mode override for the Incubator block. Allowed values: DEFAULT, MCA, EASY_VILLAGERS, MUTED.
+		#Allowed Values: DEFAULT, MCA, EASY_VILLAGERS, MUTED
+		incubatorSoundMode = "DEFAULT"
+
+[debug]
+	#Enables additional debug logging for compatibility troubleshooting.
+	enableDebugLogging = false
+
