@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/release.yml"
-hash = "c558c83ee322abd152a858ab03e4dea2f83aae0bc2bb203f961f5ff26705ebda"
-
-[[files]]
-file = ".github/workflows/validate.yml"
-hash = "543bd47683181481a834d02c72995c97da9333d598de0e6ac4dd9b51a15d2e67"
-
-[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "5a4d2db026b833175116de304ee57a1e959621a92d20bcb6cc291b299a0a5493"
 metafile = true
