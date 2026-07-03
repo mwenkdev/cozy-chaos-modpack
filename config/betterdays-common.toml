@@ -131,7 +131,7 @@
 	#A value of 1 means all players must be sleeping, 0.5 means half the players must be sleeping, etc.
 	#A value of 0 effectively disables this feature.
 	#Range: 0.0 ~ 1.0
-	ratioPlayersForSleep = 0.0
+	ratioPlayersForSleep = 0.25
 
 	#This section defines settings for notification messages.
 	#All messages support Minecraft formatting codes (https://minecraft.wiki/w/Formatting_codes).

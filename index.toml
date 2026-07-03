@@ -497,20 +497,8 @@ file = "config/ars_nouveau/wololo.toml"
 hash = "ee00d3505701989b055110fa5e3ef0a59facfda3bd522b263be91ecfb9c75e61"
 
 [[files]]
-file = "config/bettercaves/README.txt"
-hash = "e6f25132180339d5b7f53c1f5473f28cdf743f76292bc8f87142e4b0300e0f2c"
-
-[[files]]
-file = "config/bettercaves/forge-1_20_1/README.txt"
-hash = "1dc29f3ad9f62887f2667aeaed28c3fd3a2520055382ecb3636e3cb9ea563baa"
-
-[[files]]
-file = "config/bettercaves/forge-1_20_1/liquidregions.json"
-hash = "ad0e43cd1d8fff16d76ff6036699bd67598ff8bc18220b7e8e951245c92cf139"
-
-[[files]]
 file = "config/betterdays-common.toml"
-hash = "24bc5412745a5c4f935b14db07e6d364a508b9907e96dd85fda2b5d9d6e2d294"
+hash = "b9d12c1d41c9347a8d069eeb9342e0430e0e8cc70b93eda2117e56edc9ded7e9"
 
 [[files]]
 file = "config/betterdeserttemples-forge-1_20.toml"
@@ -658,7 +646,7 @@ hash = "05f17e0700fdaf30b09f732d3a4e2bbe7011a319930b4ca86b4c630885cff7ab"
 
 [[files]]
 file = "config/iceandfire/iaf-common.json"
-hash = "58e86c8fe229b5038880cefaef48a31c81d2cc060c6c522f185e7d767ea8dfba"
+hash = "8ca696ced63f1a72200ada149b8450d41ccbe3afdbc9f91ad07ca979af64bad3"
 
 [[files]]
 file = "config/inventoryessentials-common.toml"
@@ -1130,11 +1118,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "9fb6a1a06b18f2ce7b0811200339d997925cb39bde220fbaea4d5c8067376c12"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-caves.pw.toml"
-hash = "c35cd5713162c90a988800682e017f90862027c3b2a98cd01de45a323d0ab6e6"
 metafile = true
 
 [[files]]
