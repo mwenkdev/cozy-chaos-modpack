@@ -702,7 +702,7 @@ hash = "e67138d1168068fa5a5ab66f90f9583b87dea826b7e6c0bb77730fe76b275c06"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
-hash = "619a50f1494dba3e961ccf97df04446f82da5d841bfa01ad3a3a9267b2efc1c3"
+hash = "075d63b885071b93e6c55c8067db7792a002b96512aeadb820d43a9c0981990a"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -1038,6 +1038,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
+metafile = true
+
+[[files]]
+file = "mods/quickstack.pw.toml"
+hash = "a60d4b1d58f9f88269b5ab460bfeb3638c8a9a3f35292ca6fc36d2d5a256130c"
 metafile = true
 
 [[files]]
