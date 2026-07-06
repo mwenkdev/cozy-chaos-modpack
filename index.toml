@@ -502,7 +502,7 @@ hash = "b9d12c1d41c9347a8d069eeb9342e0430e0e8cc70b93eda2117e56edc9ded7e9"
 
 [[files]]
 file = "config/betterdeserttemples-forge-1_20.toml"
-hash = "c8fba68f434b5288b51476e67cf24d15c3809c6cf4ad37ea24ed877cfa783dc4"
+hash = "5c7da477d2d0f83f688aaaaba93f7ce0a92bcbc5d7e59d0a7ca97557d4a63fe7"
 
 [[files]]
 file = "config/betterdeserttemples/README.txt"
@@ -646,7 +646,7 @@ hash = "05f17e0700fdaf30b09f732d3a4e2bbe7011a319930b4ca86b4c630885cff7ab"
 
 [[files]]
 file = "config/iceandfire/iaf-common.json"
-hash = "8ca696ced63f1a72200ada149b8450d41ccbe3afdbc9f91ad07ca979af64bad3"
+hash = "38ea97b98142f56b208f0f4ebb61c19351cde1c0438458a15217caf3ac72c143"
 
 [[files]]
 file = "config/inventoryessentials-common.toml"

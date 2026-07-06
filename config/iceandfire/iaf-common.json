@@ -62,7 +62,7 @@
     "maxHealth": 100.0
   },
   "deathworm": {
-    "spawnChance": 0.00333333333333333,
+    "spawnChance": 0.0000333333333333333,
     "targetSearchLength": 48,
     "maxHealth": 10.0,
     "attackDamage": 3.0,
@@ -102,7 +102,7 @@
     "attackDamage": 7.0
   },
   "seaSerpent": {
-    "spawnChance": 0.004,
+    "spawnChance": 0.000004,
     "griefing": true,
     "baseHealth": 20.0,
     "attackDamage": 4.0
@@ -110,7 +110,7 @@
   "lich": {
     "spawn": true,
     "spawnWeight": 4,
-    "spawnChance": 0.03333333333333333
+    "spawnChance": 0.0000003333333333333333
   },
   "hydra": {
     "maxHealth": 250.0
@@ -138,13 +138,13 @@
     "dragonLightningMaxSearchCount": 10
   },
   "worldgen": {
-    "dangerousDistanceLimit": 1000.0,
-    "generateFireDragonCaveChance": 0.025,
-    "generateFireDragonRoostChance": 0.0125,
-    "generateIceDragonCaveChance": 0.025,
-    "generateIceDragonRoostChance": 0.0125,
-    "generateLightningDragonCaveChance": 0.025,
-    "generateLightningDragonRoostChance": 0.0125,
+    "dangerousDistanceLimit": 45000.0,
+    "generateFireDragonCaveChance": 0.00025,
+    "generateFireDragonRoostChance": 0.000125,
+    "generateIceDragonCaveChance": 0.00025,
+    "generateIceDragonRoostChance": 0.000125,
+    "generateLightningDragonCaveChance": 0.00025,
+    "generateLightningDragonRoostChance": 0.000125,
     "generateCyclopsCaveChance": 0.05,
     "generateGorgonTempleChance": 0.1,
     "generateGraveYardChance": 0.1,
