@@ -1,0 +1,8 @@
+name = "MekaVector"
+filename = "mekavector-1.0.0-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/mwenkdev/mekavector/releases/download/v1.0.0/mekavector-1.0.0-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "c0772fbfcbe73f1b93284e73c8aa70bd053ae09ca224339c9175588bf3364561"

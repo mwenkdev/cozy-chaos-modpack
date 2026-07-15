@@ -1011,6 +1011,11 @@ hash = "7c411a566d022680769ddb8323984fff292ddeb35e7d8fcfe2cc41b9885d9557"
 metafile = true
 
 [[files]]
+file = "mods/mekavector.pw.toml"
+hash = "1cd5536453a751ff3c034fd969ebdc892185670b8aeeebfc1ffdf45da0dd09b7"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "7e3d5a2d5e01344cc4ffb14223bcd92953c1535b17d4b7316a53c2e2e3fd0d7a"
 metafile = true
