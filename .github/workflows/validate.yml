@@ -53,5 +53,5 @@ jobs:
 
       - name: Test export (dry run)
         run: |
-          packwiz modrinth export -o /tmp/canth-test.mrpack
-          echo "Export succeeded: $(du -h /tmp/canth-test.mrpack | cut -f1)"
+          packwiz modrinth export -o /tmp/cozy-chaos-test.mrpack
+          echo "Export succeeded: $(du -h /tmp/cozy-chaos-test.mrpack | cut -f1)"
