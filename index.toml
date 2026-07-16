@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "fec49033058ced91f7668d4e305e599f5527501ef37c1f30f96d8927d6202d32"
+hash = "ed4ccdb13c738b7f70df056df84a1b977fb256a53c2921610c565069c15912c7"
 metafile = true
 
 [[files]]
@@ -942,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "d17ed4acfcecdf4a8bf344d75166cfc2fe75007bb9e55880aed8a274d9d119d0"
+hash = "fbc209f3292d63394b8821363f72340e09dd663666a27c081c1d3b7283559306"
 metafile = true
 
 [[files]]
@@ -962,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9684044ce27242121445d3c81bd89947121e61c830997b8368e06c358a777831"
+hash = "25d145014273c62b4616c31a0e640b344f76b1867532e7616a31ea32913984f3"
 metafile = true
 
 [[files]]
@@ -1087,12 +1087,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "4b9f5c0aaf394bfde24bca877ca7b5bb55e920e76a2697b063f19bea0d9e3c1d"
+hash = "4347a1900c5719443d7bf2bb255da15e0ec9105daecf8a4ba7dfd0621646b9e4"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "a6c0283a963759f47ed2d4a9066ae6ff66f9b1b658ba9e28517a667d002ca932"
+hash = "d0fae65dbb9f1d8e32cc27d8774257fbdcf14eaa07a5de34b244cbfea2868914"
 metafile = true
 
 [[files]]
@@ -1132,12 +1132,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f3a2a8bdfc106e112ad66e3ada24aefd9a2ecd96e4952e69389b6a3c1b633cc2"
+hash = "7530e37f230d95c895a36b19089b838fa006f51548603d8a8ed147337752f05b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "fabe608b23753bdaa974b8719e212ccdf67d42fa99e38e29927d62fa3d04680b"
+hash = "30228c857d71e08f2249332065843ada59b75ecc3a946fef575b1036e5c695a5"
 metafile = true
 
 [[files]]
