@@ -1,6 +1,7 @@
 name = "MekaVector"
 filename = "mekavector-1.0.0-mc1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://github.com/mwenkdev/mekavector/releases/download/v1.0.0/mekavector-1.0.0-mc1.20.1.jar"

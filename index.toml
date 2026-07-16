@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-elemental.pw.toml"
-hash = "3988dbd2074a7171a504bab87691175256db0e3690fde42cecbc9c47a256d31b"
+hash = "75f86a754e146de4246da9efa839bab8a0becd9d637567bafd2d02ca813a7f48"
 metafile = true
 
 [[files]]
@@ -1012,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekavector.pw.toml"
-hash = "1cd5536453a751ff3c034fd969ebdc892185670b8aeeebfc1ffdf45da0dd09b7"
+hash = "7f10eeaabeb2b23305fd8eefe53c13814cb8d0aad15cb820ef97cf6c56bf845d"
 metafile = true
 
 [[files]]
