@@ -53,6 +53,10 @@ file = "config/ali/ali_common.json"
 hash = "e3f663a587d8ced37c9ea9faecb7627fcec62f4cd9cfaa2419f020e63630ca74"
 
 [[files]]
+file = "config/ars_creo-common.toml"
+hash = "02f986074129b79db2a27273cea0151cc4ff0c81ed64c2e45169104ac13a01ff"
+
+[[files]]
 file = "config/ars_elemental-common.toml"
 hash = "f4887de42e6817f23fa76ee1554f85f1e10ef4afdd171395ab5e28338404937f"
 
@@ -150,7 +154,7 @@ hash = "2194f62a28a57efb75165bf79b33985a366203e212f7a45e1b7f72eedf2925da"
 
 [[files]]
 file = "config/ars_elemental/glyph_spike.toml"
-hash = "c1c3cd98aad01bd985d686294820bd965592e56275f9207cd756f30df38ff15f"
+hash = "d11eea3c64ff4e345d3d365d432cf6dd049f132a30d259e27ad15081ec4292d7"
 
 [[files]]
 file = "config/ars_elemental/glyph_summon_filter.toml"
@@ -609,6 +613,10 @@ file = "config/brewinandchewin-common.toml"
 hash = "f7ebe31b918fc9e8894cb196abcec57e5a6e364e8a49f2c90da8ac815b6455f4"
 
 [[files]]
+file = "config/buildinggadgets2-common.toml"
+hash = "cd34bf34ff49c47333b435be7523979037df203f9572bfd0ea5b5f961c86445f"
+
+[[files]]
 file = "config/cat_loaf.json"
 hash = "b0969c40c02d1321437a636f0b47ed61cd0fd5806b315dae280d489532d23819"
 
@@ -621,12 +629,32 @@ file = "config/citadel-common.toml"
 hash = "0a41518641bbb4133fc61b934e8663ae5271ffd8190a281e5b35d1efd97fb3e3"
 
 [[files]]
+file = "config/collective.json5"
+hash = "92809d098b5efeca95c37ec4fef9184bd169160d18efecf81f395c4030c0f83f"
+
+[[files]]
 file = "config/comforts-server.toml"
 hash = "04e49bd0851cabb26a7177b014dc7f5622b4e817f6fbdeaf5c9f53030bed8a3a"
 
 [[files]]
 file = "config/companions.toml"
 hash = "c69b5b75492d6cc4dc9d40ac1117d92f5bf04e56336f61fc49a215d31c91d745"
+
+[[files]]
+file = "config/copycats-common.toml"
+hash = "621a81b4af985c6995e125a9f7fdf175378202f3341ada18c7a59bf9a03230e1"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
+
+[[files]]
+file = "config/create_central_kitchen-common.toml"
+hash = "8c04cd8601a78efacde93ae40f7d977afb42009aecacae48dd4bd5de6a09b097"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "1d28b40d466308be422d511bcd662b26807a9616144055591ccabb53b42fad92"
 
 [[files]]
 file = "config/crittersandcompanions-common.toml"
@@ -650,7 +678,7 @@ hash = "38ea97b98142f56b208f0f4ebb61c19351cde1c0438458a15217caf3ac72c143"
 
 [[files]]
 file = "config/inventoryessentials-common.toml"
-hash = "81fb018bb31ca9c8262d75870094b38162dedb0f620104f5ed50184552a3cfd4"
+hash = "d317d8658908c76a7392e163c85e72a6da03605f86c7fa9dac62f051199398bd"
 
 [[files]]
 file = "config/jade/server-plugin-overrides.json"
@@ -681,6 +709,10 @@ file = "config/mca_ev_compat-common.toml"
 hash = "cc78714d2b080224306a041ca0cfaacff28118575672e3d579a430745b7a277c"
 
 [[files]]
+file = "config/mekavector-common.toml"
+hash = "9e30f45337a3960d423f98449263bd29feef899e19a578f8c2fa0ce57bb44bc8"
+
+[[files]]
 file = "config/naturalist.json"
 hash = "022aeb6c92073255d6ad01f0f47eecf574bcb19aa9bc9d8d11eeae1479079226"
 
@@ -691,6 +723,10 @@ hash = "40f71b0e41b9214cd893f147da20f04b09fa01d36f51ec6d2b14a9b06c5654bd"
 [[files]]
 file = "config/naturescompass-common.toml"
 hash = "d47de20a87c4c89bfe1caee87a1d81bcadac60142b934bd4af1c5715aba4c0b6"
+
+[[files]]
+file = "config/railways-common.toml"
+hash = "58f7821842631af9ec8bcaddb60526b81cd1b9ad63cbba87c83c70e53c3a9b16"
 
 [[files]]
 file = "config/refurbished_furniture.server.toml"
@@ -705,24 +741,16 @@ file = "config/sereneseasons/seasons.toml"
 hash = "075d63b885071b93e6c55c8067db7792a002b96512aeadb820d43a9c0981990a"
 
 [[files]]
+file = "config/sliceanddice-common.toml"
+hash = "61656b3d54da0fa7a4d2c297a8e0dcbc701996c4cf1187c063208ab3e46ff693"
+
+[[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "b377e97ca3d8ae8560448b92ab820872d7c11bef0ca52dcf3f4901b44c6ddca7"
 
 [[files]]
-file = "config/sophisticatedcore-common-1.toml.bak"
-hash = "5c319006209ecb9e071a9e40008d30410a036df939dfeaa52884a9d52e091e61"
-
-[[files]]
-file = "config/sophisticatedcore-common-2.toml.bak"
-hash = "ded0640864f38dbd22ccfcc2336b198af0446691991442f2eff29b8b533ba48b"
-
-[[files]]
-file = "config/sophisticatedcore-common-3.toml.bak"
-hash = "b1f527b6c6c0089ecc7640ee1665693bf26364457f96c6926740b7d6f9f1cc55"
-
-[[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "cc81f2c2fe5823036ca523f0d4ec987691c19fbdc62f7ee660d98f71b98a031c"
+hash = "732260ce496bd5f52a1703dd6b267cb14353e58406d02bb37fe18f5000889c1c"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -734,7 +762,7 @@ hash = "fe5a6b7611945c20c356f34813150e9893ab1a2ea9694740c3cc5d0367d96ad1"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "54383dd0f5b4dd7b5e9bfc765032d886cacb83dad1621c7863876170646d9a27"
+hash = "e2aa958bde3e793eb47da67be9325c74ff17b76c228f8f2c6e5eaa9e8591f1d1"
 
 [[files]]
 file = "config/xaero/lib/common.cfg"
