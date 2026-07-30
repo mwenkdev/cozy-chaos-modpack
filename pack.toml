@@ -1,12 +1,12 @@
 name = "Cozy Chaos"
 author = "Michael Wenk"
-version = "1.6.1"
+version = "1.6.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c181614050ca83f3fd01e012384ef2ecf47dd37cbc949a5f57fb94ac4c80b5de"
+hash = "43aa933678036e046ff774afab5f98affb6f2b8903a826873ea70bfb8ff16409"
 
 [versions]
 forge = "47.4.10"
