@@ -1159,11 +1159,6 @@ hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
 metafile = true
 
 [[files]]
-file = "mods/revamped-cats.pw.toml"
-hash = "36256ba4db8a57020d688a2f3cefe53caf11a56f1b8030a31106b56ff87ef3dd"
-metafile = true
-
-[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "23ef0c67ed600fb75d47161cdbe43b860837afe9d1f3012c44f3e7eb13bdd1e5"
 metafile = true
