@@ -1229,6 +1229,11 @@ hash = "d08d445bae50b78091dfe85336456b768c8c29ee807dfea6c65497f1371443ff"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "9fb6a1a06b18f2ce7b0811200339d997925cb39bde220fbaea4d5c8067376c12"
 metafile = true
