@@ -665,8 +665,16 @@ file = "config/curios-common.toml"
 hash = "541ee90994c1cf3d4e132df2ac3ff74004bc3952d3914ae843b5089a4dda8a95"
 
 [[files]]
+file = "config/easyanvils-server.toml"
+hash = "9a8916067315c869404b0b2e3e22a0def91b1ea45663903c7616f5e94aa7206d"
+
+[[files]]
 file = "config/farmersdelight-common.toml"
 hash = "a05079b5dbd8e2b989a348eb3fb341da5b98a23e1a9f22c86cba866bd646267e"
+
+[[files]]
+file = "config/findme.json"
+hash = "034808c6a0926fe3355be1b6bbfdde922840aa66eda76302b1c851c6bc31dc8e"
 
 [[files]]
 file = "config/fml.toml"
