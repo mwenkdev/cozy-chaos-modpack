@@ -798,7 +798,7 @@ hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "5a4d2db026b833175116de304ee57a1e959621a92d20bcb6cc291b299a0a5493"
+hash = "ac79a00e1907eed0955505d4c7d94582959d88321563bb0411afd3ab3d03babb"
 metafile = true
 
 [[files]]
@@ -828,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ed4ccdb13c738b7f70df056df84a1b977fb256a53c2921610c565069c15912c7"
+hash = "12c4913f51659fc1c0978004f411d9d9b878f589367e4fbe17ca5da60acbbce8"
 metafile = true
 
 [[files]]
@@ -898,17 +898,17 @@ metafile = true
 
 [[files]]
 file = "mods/companions-mod.pw.toml"
-hash = "ec12fec9ad3209a5df6633a78a7c33420c9716c958604be1d56cf6b5948817fc"
+hash = "34c7a615a647f79c60295f87fe617e165ae9fa605a79704e82bfc771bb9d9d14"
 metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "d89b1d59b9865cad867c71bbd2bc749b66fe49c307a23e77020b73b3d65b65f1"
+hash = "b68aeb75327d8b3e687da0d80b0eed10c1789521fc8d97c853fe90ab95d39843"
 metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "36d66f3e635d512d2e325a570026e6fda37db214755d43ea9b49b3bfc7c7339b"
+hash = "674b1efa0d61bd1f422ed674cb8196d06150dc1b79f4e0c4096ddee800b31176"
 metafile = true
 
 [[files]]
@@ -923,7 +923,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "4c091982c192238cc7b2cefbb3a6e634edc6d7a780e547d693df7f4e3e1b04be"
+hash = "c13a9000148ee786906c815c6218fad32497e9b71853614d78a8ebff5077af76"
 metafile = true
 
 [[files]]
@@ -938,7 +938,7 @@ metafile = true
 
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
-hash = "b774d165eac2a2fe61c6ffa265bdad9f2f31fb40d12605e02ce4aca1e23809d8"
+hash = "10cf81efb7efc162edb060c26a48ffd997eab3d482929b1a84ea62c9be3f36ce"
 metafile = true
 
 [[files]]
@@ -973,7 +973,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
+hash = "349c06c50fa315e9eb618d115f7d1391062706021c645e14f86afae3109d4662"
 metafile = true
 
 [[files]]
@@ -1033,7 +1033,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceandfire-ce.pw.toml"
-hash = "c497c937b7baa0dc2341b9a9f88cdc127b45b79c2c11d496561aa615b4a77389"
+hash = "a1aa574376145f891576902b94004a498c757ac0e0c9081d7b0b5e9e42da43fc"
 metafile = true
 
 [[files]]
@@ -1048,7 +1048,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "fbc209f3292d63394b8821363f72340e09dd663666a27c081c1d3b7283559306"
+hash = "8bccdba76bca175ecd301826931591663cd7b1edba1c216fef4d45221784c131"
 metafile = true
 
 [[files]]
@@ -1068,7 +1068,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b2b0c0187f17cd051e027476ebad2aa85251d312f159f84ea1dbdb7d6111c1c7"
+hash = "abf01c8c8745ac815f183c913b74664b238e2d8ce34ac6c19b8f080e0db2b4e0"
 metafile = true
 
 [[files]]
@@ -1128,7 +1128,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "538ab13e402bfc348429b8b5b9b0e1005ee67fdf1c72186549de9cc5fffcd27e"
+hash = "bd854eced939b0bdee09938541e14a6a356764ec1d6528a0514d832314d000b1"
 metafile = true
 
 [[files]]
@@ -1143,7 +1143,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturalist.pw.toml"
-hash = "6039fa77bfd0871c009092508bbaaed5f25947af425943fe3a2c8e6b32cd3102"
+hash = "2674d6bbb1172447732119051e0621f0c8619bf63f4dfaa1ff81afd98f019a5e"
 metafile = true
 
 [[files]]
@@ -1198,17 +1198,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
-hash = "323e14af559790da46e54ad8e2f0fa7a210571f405e55fbe2e68cead9e6153b8"
+hash = "93c739fe7fbb568c790dfb10ea6afefbb149547aeb711cdba97441f06152bc10"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "e0cd88bf00ceff6334fe098cf247f831f47324fdfc18243fd755d4c3fe5d52cc"
+hash = "62885ac418449fc267d956bbb804d875c74b6eabf98b548a43f9fa740d75c2be"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "39e6fa7a70ee97cfb07967e8464a468a11f7b61b272cb00e62570334106adf27"
+hash = "6a89251bae4eebf942681cdb5cf017f051e2c62cb953ea72aa2d9f93c495454e"
 metafile = true
 
 [[files]]
@@ -1218,7 +1218,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "0582ea67ffb267fb5e2e130cbc1701c8461ea86391cdb80673053ba4bf54da62"
+hash = "664b98ebed2d34ec58c2700228fd45a923857d0675753290739e1d95f5e69a51"
 metafile = true
 
 [[files]]
@@ -1233,7 +1233,7 @@ metafile = true
 
 [[files]]
 file = "mods/trash-cans.pw.toml"
-hash = "13af80b2b1274ebea8a8afdd31340b98280ae70ae7a64061162d0b07e75e0929"
+hash = "836d89a8540540024283b66b0d12429f9885b4f8d1fd923b6dfe44d4dfd6af46"
 metafile = true
 
 [[files]]
@@ -1258,7 +1258,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d08d445bae50b78091dfe85336456b768c8c29ee807dfea6c65497f1371443ff"
+hash = "113533d8c1deb0d31e37ef95b47e3a34f84556aabdb5da710e915b3b20153470"
 metafile = true
 
 [[files]]

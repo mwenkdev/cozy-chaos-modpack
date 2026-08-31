@@ -1,13 +1,13 @@
 name = "Companions!"
-filename = "companions-forge-1.20.1-1.2.3.jar"
+filename = "companions-forge-1.20.1-1.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ArBFNu9T/versions/SnioeNZW/companions-forge-1.20.1-1.2.3.jar"
+url = "https://cdn.modrinth.com/data/ArBFNu9T/versions/mJQe3orO/companions-forge-1.20.1-1.3.2.jar"
 hash-format = "sha512"
-hash = "27b7fc845ce5dc65312d6ea3effb7b82a3c12f6325f47df2aa16151ef61377f7b151531f412a4e369ba9d8dce7035ce0d15991ffe3189041f6f9b8cd5d213d0c"
+hash = "cce2e6cd692bbd910168f3fbc6fad3627e3c30a71b64378977324fcfd95ab1e1cfcd9118f4359c30ba4347e9c2dd5915ab1ec707c70216e460ab69037606ae85"
 
 [update]
 [update.modrinth]
 mod-id = "ArBFNu9T"
-version = "SnioeNZW"
+version = "mJQe3orO"
