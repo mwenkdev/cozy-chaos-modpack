@@ -828,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "12c4913f51659fc1c0978004f411d9d9b878f589367e4fbe17ca5da60acbbce8"
+hash = "92eef137f9ea740673053ec3604ddf3ed197f22fdf5e5da35c8364f88ad31650"
 metafile = true
 
 [[files]]
@@ -888,7 +888,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0e70a9f05b4b5cafaeed0417a3cfae2dd36bd88cce06a4b688d240d9b90ddfb2"
+hash = "4eb6c45b1610715e25f6070d445a3dc9322c1f66197f0cb6d1158a9d62cba786"
 metafile = true
 
 [[files]]
@@ -898,12 +898,12 @@ metafile = true
 
 [[files]]
 file = "mods/companions-mod.pw.toml"
-hash = "34c7a615a647f79c60295f87fe617e165ae9fa605a79704e82bfc771bb9d9d14"
+hash = "5172630d89296e14b1207d1e1823f75f5b1c91517153ffe78059aafc90facca7"
 metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "b68aeb75327d8b3e687da0d80b0eed10c1789521fc8d97c853fe90ab95d39843"
+hash = "bc4c7fcbe7ac207a8cf408e754a02ffb61cc106a5445a6987a0924b45ce8b53b"
 metafile = true
 
 [[files]]
@@ -1003,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/furnace-recycle.pw.toml"
-hash = "703c95f32fc5c7cb4708e3b06c9a6d0762b5e8df162483484f83c117b5be3744"
+hash = "66a282022e2a9bf99d87841bdbff691633e67ae265dde598953d232af6e5d65e"
 metafile = true
 
 [[files]]
@@ -1033,12 +1033,12 @@ metafile = true
 
 [[files]]
 file = "mods/iceandfire-ce.pw.toml"
-hash = "a1aa574376145f891576902b94004a498c757ac0e0c9081d7b0b5e9e42da43fc"
+hash = "348fbe0e1ab8601f451c89736ec93e3289c5f44e731c6aaa27658df6e6be7c84"
 metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "f4216fe5a1aa2c7fa7d9ba03425096372f1b227892c2a78447d190fc22156dc0"
+hash = "5f2372d0191c0c6412051ef3d17831c23868a54f6886045ab37385a8789b600e"
 metafile = true
 
 [[files]]
@@ -1078,7 +1078,7 @@ metafile = true
 
 [[files]]
 file = "mods/jurassic-reborn.pw.toml"
-hash = "d32a8535bbf366ab2310ff2e875a7935318966674b6141a3615b1636249be5ee"
+hash = "598092dfb238ec38119eb8238d4e2300180ca883a2a25988ec8cfcaf14d7b9a5"
 metafile = true
 
 [[files]]
@@ -1093,7 +1093,7 @@ metafile = true
 
 [[files]]
 file = "mods/knight-lib.pw.toml"
-hash = "eb7e67a5d48a41ff81c8848f0568dacb28d904ca45dbb7455ff35cf0fc42b2c2"
+hash = "da68600b4827bde77b223e7b27bf35aa101163d66fc2771c0f535cc0b6723f94"
 metafile = true
 
 [[files]]
@@ -1198,17 +1198,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
-hash = "93c739fe7fbb568c790dfb10ea6afefbb149547aeb711cdba97441f06152bc10"
+hash = "3e43a344f79222aad5e749be193bcf7900001e6fac5f980908f7a365848895cc"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "62885ac418449fc267d956bbb804d875c74b6eabf98b548a43f9fa740d75c2be"
+hash = "d0a96fe57be1729dc0d4e697b4b1238b0f2d51eb5c16bbc8b4cdd7e525220b6b"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "6a89251bae4eebf942681cdb5cf017f051e2c62cb953ea72aa2d9f93c495454e"
+hash = "c833f91ecbd1b6d9d14c0e2ce3810bc730756d07ec83397b0bb3d142ee9b927f"
 metafile = true
 
 [[files]]
@@ -1218,12 +1218,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "664b98ebed2d34ec58c2700228fd45a923857d0675753290739e1d95f5e69a51"
+hash = "39b476169bbd416bad1e880774a8d2e35865bbdfbaeb8e77da1652df82e0eaa8"
 metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
+hash = "64c3a0ec2e1a1759bda925487c525944d5d3877b73710805024bca6893bab1d3"
 metafile = true
 
 [[files]]
@@ -1233,7 +1233,7 @@ metafile = true
 
 [[files]]
 file = "mods/trash-cans.pw.toml"
-hash = "836d89a8540540024283b66b0d12429f9885b4f8d1fd923b6dfe44d4dfd6af46"
+hash = "27069163c201ed5219e378d5af3ff12cdd4d8db3304a931b97dbe70a27437383"
 metafile = true
 
 [[files]]
@@ -1248,17 +1248,17 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "ff646e2f218fe9b5094b835855949b70f3f528f0d12ce2401455f60ee9017dbb"
+hash = "1dc6ca31c7b6912c494caa2a4f5f9f7250af50fbeb9ce9141ae9b741f9861987"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "20beda5f9b049a2352334a0f8dd8de122e7399f8a446d8f78aeecba85d99bbdc"
+hash = "7f87fe777d2f09bf5f19f06dc69b60023bc8caf34cba74ab6b62005cf184b348"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "113533d8c1deb0d31e37ef95b47e3a34f84556aabdb5da710e915b3b20153470"
+hash = "5290b1a5c4624ba20a080385052eb55cfdc42170dfc5cd5aeecd570115d5f947"
 metafile = true
 
 [[files]]

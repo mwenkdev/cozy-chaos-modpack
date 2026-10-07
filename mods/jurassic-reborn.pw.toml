@@ -1,13 +1,13 @@
 name = "Jurassic Reborn"
-filename = "jurassicreborn-1.3.44.jar"
+filename = "jurassicreborn-1.4.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3cnkUCbj/versions/qRTxFAHU/jurassicreborn-1.3.44.jar"
+url = "https://cdn.modrinth.com/data/3cnkUCbj/versions/C7jKLSZ8/jurassicreborn-1.4.2.jar"
 hash-format = "sha512"
-hash = "5a76f0f9a7afc2ac261b373d6413c890136a7ba12255a91da556ef6baa2e9e881f4892ddbf5aa2e9dc6de9e7cfd83ee73eabb4a308fec7d98555337cbed4ca7c"
+hash = "1fdf86e21e8d855969b03226164585a305ba2a118595354ba28ac1256eb2d5a3350a39fdf0bddf3c45da4efe84fd2a68ddd1c685fafabf9ab41964dd55fca026"
 
 [update]
 [update.modrinth]
 mod-id = "3cnkUCbj"
-version = "qRTxFAHU"
+version = "C7jKLSZ8"
