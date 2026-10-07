@@ -1103,7 +1103,7 @@ metafile = true
 
 [[files]]
 file = "mods/mca-reborn-x-easy-villagers-compat.pw.toml"
-hash = "16bf752461810ce33b2b84c42ab6696cd88f0c3c93e450d8be7e2b6507047926"
+hash = "876fde86ea1e160ee2f7b4a61ed1afcecb6946aedfa58af6ef303ca09ad05214"
 metafile = true
 
 [[files]]
